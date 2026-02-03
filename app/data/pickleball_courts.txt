@@ -1,0 +1,275 @@
+=== METADATA ===
+source: local_upload
+name: Worthy Park
+location: Huntington Beach, CA
+indoor: false
+type: court
+created_at: 2026-02-03
+
+Worthy Park
+4 pickleball courts
+
+Free to Play
+
+Worthy Park is one of the most popular places to play pickleball in Huntington Beach, CA. There are 4 outdoor concrete courts. These are dedicated courts with permanent lines and nets. The courts are free. The courts cannot be reserved. Players have access to restrooms, water, and lights.
+1831 17th Street, Huntington Beach, CA 92648, USA
+(714) 536-5486
+www.surfcityusa.com
+
+Surface & Features
+Permanent Lines
+Permanent Nets
+Concrete Surface
+4 Outdoor Courts
+
+Amenities
+Restrooms
+Water
+Lighted Courts
+
+=== METADATA ===
+source: local_upload
+name: Bonita Canyon Sports Park
+location: Newport Beach, CA
+indoor: false
+type: court
+created_at: 2026-02-03
+
+Bonita Canyon Sports Park
+4 pickleball courts
+
+Free to Play
+
+Bonita Canyon Sports Park is one of the most popular places to play pickleball in Newport Beach, CA. There are 4 outdoor hard courts. These are dedicated courts with permanent lines and nets. Amenities include restrooms. The courts are free. The courts cannot be reserved. One challenge court (winner stays)
+4301 Ford Rd, Newport Beach, CA, 92660, USA
+(949) 644-3151
+funorangecountyparks.com
+
+Surface & Features
+Permanent Lines
+Permanent Nets
+Hard Surface
+4 Outdoor Courts
+
+Amenities
+Restrooms
+
+=== METADATA ===
+source: local_upload
+name: PowerPlay Pickleball
+location: Gardena, CA
+indoor: true
+type: court
+created_at: 2026-02-03
+
+PowerPlay Pickleball
+9 pickleball courts
+
+Pay to Play
+
+Court reservations available
+
+PowerPlay Pickleball is one of the most popular places to play pickleball in Gardena, CA. There are 9 indoor concrete courts. These are dedicated courts with permanent lines and nets. Players have access to food, restrooms, water, youth programming, lights, a pro shop, trainers or lessons, wheelchair accessibility, and adaptive programming. The courts can be reserved. A one-time fee is required to play.
+
+Amenities
+Food
+Restrooms
+Water
+Lights
+Pro shop / equipment
+Trainers / Lessons
+Wheelchair accessible
+Adaptive programming
+```# filepath: /Users/nataliequach/Downloads/Project 2/app/data/pickleball_courts.txt
+# ...existing code...
+=== METADATA ===
+source: local_upload
+name: PowerPlay Pickleball
+location: Gardena, CA
+indoor: true
+type: court
+created_at: 2026-02-03
+
+PowerPlay Pickleball
+9 pickleball courts
+
+Pay to Play
+
+Court reservations available
+
+PowerPlay Pickleball is one of the most popular places to play pickleball in Gardena, CA. There are 9 indoor concrete courts. These are dedicated courts with permanent lines and nets. Players have access to food, restrooms, water, youth programming, lights, a pro shop, trainers or lessons, wheelchair accessibility, and adaptive programming. The courts can be reserved. A one-time fee is required to play.
+
+Amenities
+Food
+Restrooms
+Water
+Lights
+Pro shop / equipment
+Trainers / Lessons
+Wheelchair accessible
+Adaptive programming
+
+=== METADATA ===
+source: local_upload
+name: Edison Park
+location: Huntington Beach, CA
+indoor: false
+type: court
+created_at: 2026-02-03
+
+Edison Park
+7 pickleball courts
+
+Free to Play
+
+Edison Park is a place to play pickleball in Huntington Beach, CA. There are 7 outdoor asphalt courts. These are dedicated courts with permanent lines and nets. The courts are free. Amenities include restrooms, wheelchair accessibility, and water.
+
+21377 Magnolia Street, Huntington Beach, CA, USA
+(714) 536-5436
+www.huntingtonbeachca.gov
+Schedule: Dawn til dusk every day
+
+Surface & Features
+Permanent Lines
+Permanent Nets
+Asphalt Surface
+7 Outdoor Courts
+
+Amenities
+Restrooms
+Wheelchair Accessibility
+Water
+
+=== METADATA ===
+source: local_upload
+name: HB Sports Warehouse
+location: Huntington Beach, CA
+indoor: true
+type: court
+created_at: 2026-02-03
+
+HB Sports Warehouse
+2 pickleball courts
+
+Court reservations available
+
+HB Sports Warehouse is a place to play pickleball in Huntington Beach, CA. There are 2 indoor wood courts. The lines are permanent, and portable nets are available. You can reserve the courts. The facility includes amenities like food, restrooms, water, youth programming, lights, a pro shop or equipment store, trainers or lessons, and wheelchair accessibility.
+
+18211 Enterprise Lane unit d, Huntington Beach, CA, USA
+(949) 512-0222
+www.hbsportswarehouse.com
+Courts can be rented. Memberships available. Entire facility can be rented for events.
+
+Surface & Features
+Permanent Lines
+Portable Nets
+Wood Surface
+2 Indoor Courts
+
+Amenities
+Food and Drinks
+Restrooms
+Water
+Youth Programming
+Lighted Courts
+Pro Shop
+Trainers & Lessons
+Wheelchair Accessibility
+```# filepath: /Users/nataliequach/Downloads/Project 2/app/data/pickleball_courts.txt
+# ...existing code...
+=== METADATA ===
+source: local_upload
+name: HB Sports Warehouse
+location: Huntington Beach, CA
+indoor: true
+type: court
+created_at: 2026-02-03
+
+HB Sports Warehouse
+2 pickleball courts
+
+Court reservations available
+
+HB Sports Warehouse is a place to play pickleball in Huntington Beach, CA. There are 2 indoor wood courts. The lines are permanent, and portable nets are available. You can reserve the courts. The facility includes amenities like food, restrooms, water, youth programming, lights, a pro shop or equipment store, trainers or lessons, and wheelchair accessibility.
+
+18211 Enterprise Lane unit d, Huntington Beach, CA, USA
+(949) 512-0222
+www.hbsportswarehouse.com
+Courts can be rented. Memberships available. Entire facility can be rented for events.
+
+Surface & Features
+Permanent Lines
+Portable Nets
+Wood Surface
+2 Indoor Courts
+
+Amenities
+Food and Drinks
+Restrooms
+Water
+Youth Programming
+Lighted Courts
+Pro Shop
+Trainers & Lessons
+Wheelchair Accessibility
+
+=== METADATA ===
+source: local_upload
+name: Fountain Valley Recreation Center & Sports Park
+location: Fountain Valley, CA
+indoor: false
+type: court
+created_at: 2026-02-03
+
+Fountain Valley Recreation Center & Sports Park
+16 pickleball courts
+
+Pay to play
+
+Court reservations available
+
+Fountain Valley Recreation Center & Sports Park is one of the most popular places to play pickleball in Fountain Valley, CA. There are 16 outdoor hard and concrete courts. These are dedicated courts with permanent lines and nets. Amenities include lights, water, trainers or lessons, youth programming, and wheelchair accessibility. A one-time fee is required to play. Reservations are available. No drop in play, no open play. 16 permanent nets & courts. Reservations: court fee $12/9 (senior) per hour, two hour max, two court maximum
+
+16400 Brookhurst St, Fountain Valley, CA 92708, USA
+(714) 587-0797
+fountainvalley.agapetennisacademy.com
+Reservations: court fee $12/9 (senior) per hour, two hour max, two court maximum
+
+Surface & Features
+Permanent Lines
+Permanent Nets
+Hard Surface
+Concrete Surface
+16 Outdoor Courts
+
+Amenities
+Lighted Courts
+Water
+Trainers & Lessons
+Youth Programming
+Wheelchair Accessibility
+
+=== METADATA ===
+source: local_upload
+name: Tanager Park
+location: Costa Mesa, CA
+indoor: false
+type: court
+created_at: 2026-02-03
+
+Tanager Park
+2 pickleball courts
+
+Free to Play
+
+Tanager Park is a place to play pickleball in Costa Mesa, CA. There are 2 outdoor hard courts. These are dedicated courts with permanent lines and nets. The courts are free.
+
+1780 Hummingbird Dr, Costa Mesa, CA 92626, United States
+(714) 754-5300
+www.costamesaca.gov
+
+Surface & Features
+Permanent Lines
+Permanent Nets
+Hard Surface
+2 Outdoor Courts

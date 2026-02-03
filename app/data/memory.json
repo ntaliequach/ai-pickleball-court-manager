@@ -1,0 +1,35 @@
+{
+  "I prefer outdoor courts and usually play on weekends": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "string",
+        "ts": "2026-02-03T09:48:09.700278"
+      },
+      {
+        "role": "assistant",
+        "text": "Received. I have saved your preferences: no preferences yet. You said: string",
+        "ts": "2026-02-03T09:48:09.700768"
+      }
+    ],
+    "prefs": {}
+  },
+  "1": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "I prefer indoor courts and usually play on weekends",
+        "ts": "2026-02-03T09:48:23.523616"
+      },
+      {
+        "role": "assistant",
+        "text": "Received. I have saved your preferences: prefer_indoor=True, plays_weekends=True. You said: I prefer indoor courts and usually play on weekends",
+        "ts": "2026-02-03T09:48:23.523807"
+      }
+    ],
+    "prefs": {
+      "prefer_indoor": true,
+      "plays_weekends": true
+    }
+  }
+}
