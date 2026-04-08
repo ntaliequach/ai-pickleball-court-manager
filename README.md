@@ -102,10 +102,9 @@ pip install -r requirements.txt
 sqlite3 data.db "ALTER TABLE courts ADD COLUMN hours TEXT;"
 ```
 
-5. **Run the backend:**
+5. **Run the backend from the parent directory:**
 ```bash
-cd app
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 Backend will run at `http://127.0.0.1:8000`  
