@@ -1,2 +1,7 @@
-frontend/.env
-frontend/node_modules
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+data.db
+.DS_Store
+.env
