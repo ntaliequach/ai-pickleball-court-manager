@@ -103,6 +103,16 @@
         "role": "assistant",
         "text": "Hello! 🏐 Looking for pickleball courts? I can help you find the perfect one based on your needs. What are you looking for?",
         "ts": "2026-04-08T07:09:21.621696"
+      },
+      {
+        "role": "user",
+        "text": "Which courts have the best weather?",
+        "ts": "2026-04-08T07:38:31.142782"
+      },
+      {
+        "role": "assistant",
+        "text": "I'd be happy to help you find pickleball courts! 🏐 Tell me what you're looking for:\n• Location (city or area)\n• Indoor or outdoor\n• Free or pay\n• Any specific amenities?",
+        "ts": "2026-04-08T07:38:31.142821"
       }
     ],
     "prefs": {}

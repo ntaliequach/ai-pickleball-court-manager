@@ -16,6 +16,8 @@ An AI-powered full-stack web application for discovering, managing, and tracking
 - **Document Ingestion**: Upload `.txt` files to populate the knowledge base
 - **Visit Summaries**: AI-generated insights from visit history (most-played courts, crowdedness trends)
 
+![alt text](image.png)
+
 ## 🏗️ Architecture
 
 ### Tech Stack
