@@ -31,5 +31,80 @@
       "prefer_indoor": true,
       "plays_weekends": true
     }
+  },
+  "user-1": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "Give me some pickleball courts near Irvine",
+        "ts": "2026-02-12T14:59:15.167871"
+      },
+      {
+        "role": "assistant",
+        "text": "Received. I have saved your preferences: no preferences yet. You said: Give me some pickleball courts near Irvine",
+        "ts": "2026-02-12T14:59:15.169295"
+      },
+      {
+        "role": "user",
+        "text": "Hi",
+        "ts": "2026-02-12T14:59:26.270144"
+      },
+      {
+        "role": "assistant",
+        "text": "Received. I have saved your preferences: no preferences yet. You said: Hi",
+        "ts": "2026-02-12T14:59:26.270720"
+      },
+      {
+        "role": "user",
+        "text": "Hello",
+        "ts": "2026-02-12T15:00:44.779580"
+      },
+      {
+        "role": "assistant",
+        "text": "Received. I have saved your preferences: no preferences yet. You said: Hello",
+        "ts": "2026-02-12T15:00:44.780399"
+      },
+      {
+        "role": "user",
+        "text": "Hi",
+        "ts": "2026-02-12T15:02:55.613438"
+      },
+      {
+        "role": "assistant",
+        "text": "Hello! 🏐 Looking for pickleball courts? I can help you find the perfect one based on your needs. What are you looking for?",
+        "ts": "2026-02-12T15:02:55.613467"
+      },
+      {
+        "role": "user",
+        "text": "Can you recommend some outdoor cours?",
+        "ts": "2026-02-12T15:03:14.656803"
+      },
+      {
+        "role": "assistant",
+        "text": "Prefer outdoor play? 🌳 Excellent! I can find outdoor courts. Are you looking for any specific amenities like lights, free play, or a certain number of courts?",
+        "ts": "2026-02-12T15:03:14.656839"
+      },
+      {
+        "role": "user",
+        "text": "Hi give me some beginner advice for pickleball and some outdoor courts",
+        "ts": "2026-02-12T15:24:05.769648"
+      },
+      {
+        "role": "assistant",
+        "text": "That's interesting! 🤔 I'd love to help you find the perfect pickleball court. Why don't you tell me:\n• What location you're interested in\n• Whether you prefer indoor or outdoor\n• If you're looking for free or paid courts\n\nThen I can give you specific recommendations!",
+        "ts": "2026-02-12T15:24:05.769704"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "ts": "2026-04-08T07:09:21.621666"
+      },
+      {
+        "role": "assistant",
+        "text": "Hello! 🏐 Looking for pickleball courts? I can help you find the perfect one based on your needs. What are you looking for?",
+        "ts": "2026-04-08T07:09:21.621696"
+      }
+    ],
+    "prefs": {}
   }
 }
